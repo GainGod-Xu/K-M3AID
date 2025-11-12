@@ -99,3 +99,13 @@ pip install rdkit-pypi
 pip install pandas
 pip install nmrglue
 
+
+## Citation 
+
+If you use this code or its corresponding [paper](https://openreview.net/forum?id=A2KGWJrubD), please cite our work as follows:
+
+@inproceedings{xu2024enhancing,
+  title={Enhancing Peak Assignment in CNMR Spectroscopy: A Novel Approach Using Multimodal Alignment},
+  author={Xu, Hao and Zhou, Zhengyang and Hong, Pengyu},
+  booktitle={ICML 2024 AI for Science Workshop}
+}
